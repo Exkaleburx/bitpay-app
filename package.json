@@ -91,7 +91,7 @@
     "papaparse": "5.3.2",
     "path-browserify": "1.0.1",
     "react": "18.2.0",
-    "react-hook-form": "7.19.5",
+    "react-hook-form": "7.52.0",
     "react-i18next": "12.2.0",
     "react-native": "0.71.14",
     "react-native-appboy-sdk": "1.41.0",
